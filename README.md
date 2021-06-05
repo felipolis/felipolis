@@ -1,5 +1,5 @@
-<h1 align="left">Olá 👋, Eu sou o Felipe</h1>
-<h3 align="left">Estudante de Ciência da Computação da Universidade Tecnológica Federal do Paraná</h3>
+<h1 align="left">Hi 👋, I'm Felipe</h1>
+<h3 align="left">Computer Science student at the Federal Technological University of Parana</h3>
 
 <div>
   <a href="https://github.com/felipolis">
