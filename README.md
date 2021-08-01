@@ -14,6 +14,7 @@
   <img align="center" alt="css3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
   <img align="center" alt="selenium" height="40" width="40" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg">
   <img align="center" alt="git" height="40" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+  <img align="right" alt="Rafa-yoda" height="128" width="128" src="https://github.com/felipolis/felipolis/blob/main/avatar.gif">
 </div>
 
   ##
