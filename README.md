@@ -38,6 +38,13 @@
   <img align="center" alt="sql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
 </div>
+  
+ <div style="display: inline_block"><br>
+  <h4>Lenguages</h4>
+  <img align="center" alt="brasil" height="30" width="30" src="https://github.com/felipolis/felipolis/blob/main/brasil.png">
+  <img align="center" alt="inglaterra" height="30" width="30" src="https://github.com/felipolis/felipolis/blob/main/inglaterra.png">
+  <img align="center" alt="espanha" height="30" width="30" src="https://github.com/felipolis/felipolis/blob/main/espanha.png">
+</div>
 
   ##
 
