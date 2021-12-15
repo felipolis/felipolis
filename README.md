@@ -42,7 +42,7 @@
  <div style="display: inline_block"><br>
   <h4>Languages</h4>
   <img align="center" alt="brasil" height="30" width="30" src="https://github.com/felipolis/felipolis/blob/main/brasil.png">
-  <img align="center" alt="inglaterra" height="30" width="30" src="https://github.com/felipolis/felipolis/blob/main/inglaterra.png">
+  <img align="center" alt="reino-unido" height="30" width="30" src="https://github.com/felipolis/felipolis/blob/main/reino-unido.png">
   <img align="center" alt="espanha" height="30" width="30" src="https://github.com/felipolis/felipolis/blob/main/espanha.png">
 </div>
 
