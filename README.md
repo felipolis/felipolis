@@ -18,7 +18,7 @@
   <img align="center" alt="ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="boots" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="right" alt="Rafa-yoda" height="128" width="128" src="https://github.com/felipolis/felipolis/blob/main/meuavatar.gif">
+  <img align="right" alt="felipe_gif" height="128" width="128" src="https://github.com/felipolis/felipolis/blob/main/meuavatar.gif">
 </div>
   
 <div style="display: inline_block"><br>
