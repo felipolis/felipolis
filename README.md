@@ -1,7 +1,6 @@
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
-### :wave: Hi, I'm Felipe!
-##
+## :wave: Hi, I'm Felipe!
 <div>
    <img align="left" alt="felipe_gif" height="128" width="128" src="https://github.com/felipolis/felipolis/blob/main/meuavatar.gif">
    Computer Science student at the Federal Technological University of Parana (UTFPR/CM). I'm currently working on web development with Angular, specializing, more precisely, in the front-end area, but expanding my knowledge in the back-end. In addition to this area, my focus of studies is currently in the area of machine learning with python. 
@@ -9,15 +8,13 @@
 <br><br><br><br>
 
 
-### ⚙️ GitHub Analytics
-##
+## ⚙️ GitHub Analytics
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipolis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipolis&layout=compact&langs_count=16&theme=dracula"/>
 </div><br>
 
-### ⚡ Technologies
-##
+## ⚡ Technologies
 ![HTML](https://img.shields.io/badge/-HTML-%2320232a.svg?style=for-the-badge&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-%2320232a.svg?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
 ![SASS](https://img.shields.io/badge/SASS-%2320232a.svg?style=for-the-badge&logo=SASS&logoColor=hotpink)&nbsp;
@@ -39,22 +36,19 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-%2320232a.svg?style=for-the-badge&logo=github)&nbsp;
 <br><br>
 
-### 🗣️ Languages
-##
+## 🗣️ Languages
 <div style="display: inline_block">
   <img align="center" alt="brasil" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/317/317132.png">
   <img align="center" alt="reino-unido" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/317/317348.png">
   <img align="center" alt="espanha" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/317/317316.png">
 </div><br>
 
-### ✉️ Contact Me 
-##
+## ✉️ Contact Me 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:felipecunhamendes@gmail.com)](mailto:felipecunhamendes@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipeacmendes/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipeacmendes/)
 <br><br>
 
-### 🐍 Snake
-##
+## 🐍 Snake
 ![Snake animation](https://github.com/felipolis/felipolis/blob/output/github-contribution-grid-snake.svg)
 
