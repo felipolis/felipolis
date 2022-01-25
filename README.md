@@ -3,9 +3,9 @@
 ### :wave: Hi, I'm Felipe!
 <div>
    <img align="left" alt="felipe_gif" height="128" width="128" src="https://github.com/felipolis/felipolis/blob/main/meuavatar.gif">
-   Computer Science student at the Federal Technological University of Parana (UTFPR/CM). Atualmente estou trabalhando em desenvolvimento web com angular, se especializando, mais precisamente, na area do front-end, porem expandindo meus conhecimentos no back-end. Alem dessa area, meu foco de estudos, atualmente, esta na area de aprendizado de maquina com python.
+   Computer Science student at the Federal Technological University of Parana (UTFPR/CM). I'm currently working on web development with Angular, specializing, more precisely, in the front-end area, but expanding my knowledge in the back-end. In addition to this area, my focus of studies is currently in the area of machine learning with python. 
 </div>
-<br><br>
+<br><br><br>
 
 
 ### ⚙️ GitHub Analytics
