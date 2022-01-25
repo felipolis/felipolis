@@ -35,6 +35,12 @@
 ![Git](https://img.shields.io/badge/-Git-%2320232a.svg?style=for-the-badge&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-%2320232a.svg?style=for-the-badge&logo=github)&nbsp;
 
+<div style="display: inline_block">
+  <h3>🗣️ Languages</h3>
+  <img align="center" alt="brasil" height="25" width="25" src="https://github.com/felipolis/felipolis/blob/main/brasil.png">
+  <img align="center" alt="reino-unido" height="25" width="25" src="https://github.com/felipolis/felipolis/blob/main/reino-unido.png">
+  <img align="center" alt="espanha" height="25" width="25" src="https://github.com/felipolis/felipolis/blob/main/espanha.png">
+</div>
 
 ### 🤝 Contact Me 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:felipecunhamendes@gmail.com)](mailto:felipecunhamendes@gmail.com)
