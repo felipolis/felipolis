@@ -1,59 +1,54 @@
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
-<h1 align="left">Hi 👋, I'm Felipe</h1>
-<h3 align="left">Computer Science student at the Federal Technological University of Parana</h3>
+### :wave: Hi, I'm Felipe!
+
+
+Computer Science student at the Federal Technological University of Parana.
+<img align="right" alt="felipe_gif" height="128" width="128" src="https://github.com/felipolis/felipolis/blob/main/meuavatar.gif">
+
+### ⚙️ GitHub Analytics
+
 
 <div>
   <a href="https://github.com/felipolis">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipolis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipolis&layout=compact&langs_count=16&theme=dracula"/>
-<div>
-
-<div style="display: inline_block"><br>
-  <h4>Front-End</h4>
-  <img align="center" alt="html5" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-  <img align="center" alt="css3" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-  <img align="center" alt="sass" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
-  <img align="center" alt="js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="boots" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="right" alt="felipe_gif" height="128" width="128" src="https://github.com/felipolis/felipolis/blob/main/meuavatar.gif">
-</div>
-  
-<div style="display: inline_block"><br>
-  <h4>Automation and AI</h4>
-  <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="selenium" height="30" width="40" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg">
-  <img align="center" alt="jupyter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
-  <img align="center" alt="numpy" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg">
-  <img align="center" alt="pandas" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">
-  <img align="center" alt="matplotlib" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg">
-  <img align="center" alt="sklearn" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">
-</div>
-  
-<div style="display: inline_block"><br>
-  <h4>Others</h4>
-  <img align="center" alt="git" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
-  <img align="center" alt="c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="cpp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="sql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
-</div>
-  
- <div style="display: inline_block"><br>
-  <h4>Languages</h4>
-  <img align="center" alt="brasil" height="30" width="30" src="https://github.com/felipolis/felipolis/blob/main/brasil.png">
-  <img align="center" alt="reino-unido" height="30" width="30" src="https://github.com/felipolis/felipolis/blob/main/reino-unido.png">
-  <img align="center" alt="espanha" height="30" width="30" src="https://github.com/felipolis/felipolis/blob/main/espanha.png">
 </div>
 
-  ##
 
-<div> 
-  <a href="https://www.instagram.com/felipeacmendes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto: felipecunhamendes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/felipeacmendes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+### ⚡ Technologies
+
+
+![HTML](https://img.shields.io/badge/-HTML-%2320232a.svg?style=for-the-badge&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-%2320232a.svg?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
+![SASS](https://img.shields.io/badge/SASS-%2320232a.svg?style=for-the-badge&logo=SASS&logoColor=hotpink)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-%2320232a.svg?style=for-the-badge&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/typescript-%2320232a.svg?style=for-the-badge&logo=typescript&logoColor=%23007ACC)&nbsp;
+![Angular](https://img.shields.io/badge/angular-%2320232a.svg?style=for-the-badge&logo=angular&logoColor=%23DD0031)&nbsp;
+![Bootstrap](https://img.shields.io/badge/bootstrap-%2320232a.svg?style=for-the-badge&logo=bootstrap&logoColor=%23563D7C)&nbsp;
+![Python](https://img.shields.io/badge/-Python-%2320232a.svg?style=for-the-badge&logo=python)&nbsp;
+![Selenium](https://img.shields.io/badge/-selenium-%2320232a?style=for-the-badge&logo=selenium&logoColor=%43B02A)&nbsp;
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%2320232a.svg?style=for-the-badge&logo=jupyter&logoColor=orange)&nbsp;
+![NumPy](https://img.shields.io/badge/numpy-%2320232a.svg?style=for-the-badge&logo=numpy&logoColor=%23013243)&nbsp;
+![Pandas](https://img.shields.io/badge/pandas-%2320232a.svg?style=for-the-badge&logo=pandas&logoColor=%23150458)&nbsp;
+![Plotly](https://img.shields.io/badge/Plotly-%2320232a.svg?style=for-the-badge&logo=plotly&logoColor=%233F4F75)&nbsp;
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%2320232a.svg?style=for-the-badge&logo=scikit-learn&logoColor=%23F7931E)&nbsp;
+![C](https://img.shields.io/badge/-C-%2320232a.svg?style=for-the-badge&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-%2320232a.svg?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-%2320232a.svg?style=for-the-badge&logo=mysql)&nbsp;
+![Git](https://img.shields.io/badge/-Git-%2320232a.svg?style=for-the-badge&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-%2320232a.svg?style=for-the-badge&logo=github)&nbsp;
+
+
+### 🤝 Contact e 
   
-  ![Snake animation](https://github.com/felipolis/felipolis/blob/output/github-contribution-grid-snake.svg)
-</div>
+  
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:felipecunhamendes@gmail.com)](mailto:felipecunhamendes@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipeacmendes/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipeacmendes/)
+
+### ✉️ Commits
+  
+  
+![Snake animation](https://github.com/felipolis/felipolis/blob/output/github-contribution-grid-snake.svg)
+
