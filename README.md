@@ -37,9 +37,9 @@
 
 <div style="display: inline_block">
   <h3>🗣️ Languages</h3>
-  <img align="center" alt="brasil" height="25" width="25" src="https://github.com/felipolis/felipolis/blob/main/brasil.png">
-  <img align="center" alt="reino-unido" height="25" width="25" src="https://github.com/felipolis/felipolis/blob/main/reino-unido.png">
-  <img align="center" alt="espanha" height="25" width="25" src="https://github.com/felipolis/felipolis/blob/main/espanha.png">
+  <img align="center" alt="brasil" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/317/317132.png">
+  <img align="center" alt="reino-unido" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/317/317348.png">
+  <img align="center" alt="espanha" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/317/317316.png">
 </div>
 
 ### 🤝 Contact Me 
