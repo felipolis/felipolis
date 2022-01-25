@@ -1,24 +1,20 @@
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
 ### :wave: Hi, I'm Felipe!
+<div>
+   <img align="left" alt="felipe_gif" height="128" width="128" src="https://github.com/felipolis/felipolis/blob/main/meuavatar.gif">
+   Computer Science student at the Federal Technological University of Parana (UTFPR/CM). Atualmente estou trabalhando em desenvolvimento web com angular, se especializando, mais precisamente, na area do front-end, porem expandindo meus conhecimentos no back-end. Alem dessa area, meu foco de estudos, atualmente, esta na area de aprendizado de maquina com python.
+</div>
+<br><br>
 
-
-Computer Science student at the Federal Technological University of Parana.
-<img align="right" alt="felipe_gif" height="128" width="128" src="https://github.com/felipolis/felipolis/blob/main/meuavatar.gif">
 
 ### ⚙️ GitHub Analytics
-
-
 <div>
-  <a href="https://github.com/felipolis">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipolis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipolis&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
-
 ### ⚡ Technologies
-
-
 ![HTML](https://img.shields.io/badge/-HTML-%2320232a.svg?style=for-the-badge&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-%2320232a.svg?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
 ![SASS](https://img.shields.io/badge/SASS-%2320232a.svg?style=for-the-badge&logo=SASS&logoColor=hotpink)&nbsp;
@@ -40,15 +36,11 @@ Computer Science student at the Federal Technological University of Parana.
 ![GitHub](https://img.shields.io/badge/-GitHub-%2320232a.svg?style=for-the-badge&logo=github)&nbsp;
 
 
-### 🤝 Contact e 
-  
-  
+### 🤝 Contact Me 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:felipecunhamendes@gmail.com)](mailto:felipecunhamendes@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipeacmendes/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipeacmendes/)
 
 ### ✉️ Commits
-  
-  
 ![Snake animation](https://github.com/felipolis/felipolis/blob/output/github-contribution-grid-snake.svg)
 
