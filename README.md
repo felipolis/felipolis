@@ -5,14 +5,14 @@
    <img align="left" alt="felipe_gif" height="128" width="128" src="https://github.com/felipolis/felipolis/blob/main/meuavatar.gif">
    Computer Science student at the Federal Technological University of Parana (UTFPR/CM). I'm currently working on web development with Angular, specializing, more precisely, in the front-end area, but expanding my knowledge in the back-end. In addition to this area, my focus of studies is currently in the area of machine learning with python. 
 </div>
-<br><br><br>
+<br><br><br><br>
 
 
 ### ⚙️ GitHub Analytics
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipolis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipolis&layout=compact&langs_count=16&theme=dracula"/>
-</div>
+</div><br>
 
 ### ⚡ Technologies
 ![HTML](https://img.shields.io/badge/-HTML-%2320232a.svg?style=for-the-badge&logo=HTML5)&nbsp;
@@ -34,19 +34,21 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-%2320232a.svg?style=for-the-badge&logo=mysql)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-%2320232a.svg?style=for-the-badge&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-%2320232a.svg?style=for-the-badge&logo=github)&nbsp;
+<br><br>
 
 <div style="display: inline_block">
   <h3>🗣️ Languages</h3>
   <img align="center" alt="brasil" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/317/317132.png">
   <img align="center" alt="reino-unido" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/317/317348.png">
   <img align="center" alt="espanha" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/317/317316.png">
-</div>
+</div><br>
 
-### 🤝 Contact Me 
+### ✉️ Contact Me 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:felipecunhamendes@gmail.com)](mailto:felipecunhamendes@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipeacmendes/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipeacmendes/)
+<br><br>
 
-### ✉️ Commits
+### 🐍 Snake
 ![Snake animation](https://github.com/felipolis/felipolis/blob/output/github-contribution-grid-snake.svg)
 
