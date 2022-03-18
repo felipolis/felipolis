@@ -22,6 +22,7 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%2320232a.svg?style=for-the-badge&logo=typescript&logoColor=%23007ACC)&nbsp;
 ![Angular](https://img.shields.io/badge/angular-%2320232a.svg?style=for-the-badge&logo=angular&logoColor=%23DD0031)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%2320232a.svg?style=for-the-badge&logo=bootstrap&logoColor=%23563D7C)&nbsp;
+![Docker](https://img.shields.io/badge/docker-%2320232a.svg?style=for-the-badge&logo=docker&logoColor=%230db7ed)
 ![Python](https://img.shields.io/badge/-Python-%2320232a.svg?style=for-the-badge&logo=python)&nbsp;
 ![Selenium](https://img.shields.io/badge/-selenium-%2320232a?style=for-the-badge&logo=selenium&logoColor=%43B02A)&nbsp;
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%2320232a.svg?style=for-the-badge&logo=jupyter&logoColor=orange)&nbsp;
