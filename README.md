@@ -23,8 +23,9 @@
 ![Angular](https://img.shields.io/badge/angular-%2320232a.svg?style=for-the-badge&logo=angular&logoColor=%23DD0031)&nbsp;
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%2320232a.svg?style=for-the-badge&logo=bootstrap&logoColor=%23563D7C)&nbsp;
-![Docker](https://img.shields.io/badge/docker-%2320232a.svg?style=for-the-badge&logo=docker&logoColor=%230db7ed)
-![Firebase](https://img.shields.io/badge/firebase-%2320232a.svg?style=for-the-badge&logo=firebase)
+![jQuery](https://img.shields.io/badge/jquery-%2320232a.svg?style=for-the-badge&logo=jquery&logoColor=%230769AD)&nbsp;
+![Docker](https://img.shields.io/badge/docker-%2320232a.svg?style=for-the-badge&logo=docker&logoColor=%230db7ed)&nbsp;
+![Firebase](https://img.shields.io/badge/firebase-%2320232a.svg?style=for-the-badge&logo=firebase)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-%2320232a.svg?style=for-the-badge&logo=python)&nbsp;
 ![Selenium](https://img.shields.io/badge/-selenium-%2320232a?style=for-the-badge&logo=selenium&logoColor=%43B02A)&nbsp;
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%2320232a.svg?style=for-the-badge&logo=jupyter&logoColor=orange)&nbsp;
