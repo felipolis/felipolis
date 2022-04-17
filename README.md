@@ -39,7 +39,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%2320232a.svg?style=for-the-badge&logo=scikit-learn&logoColor=%23F7931E)&nbsp;
 <br><br>
 
-## 📖 Another Technologies
+## 🧰 Another Technologies
 ![C](https://img.shields.io/badge/-C-%2320232a.svg?style=for-the-badge&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-%2320232a.svg?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-%2320232a.svg?style=for-the-badge&logo=mysql)&nbsp;
