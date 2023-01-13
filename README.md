@@ -3,7 +3,7 @@
 ## :wave: Hi, I'm Felipe!
 <div>
    <img align="center" alt="felipe_gif" height="128" width="128" src="https://github.com/felipolis/felipolis/blob/main/meuavatar.gif">
-   <div align="justify">Computer Science student at the Federal Technological University of Parana (UTFPR/CM). I'm currently working on web development with Angular, specializing, more precisely, in the front-end area, but expanding my knowledge in the back-end. In addition to this area, my focus of studies is currently in the area of machine learning with python. </div>
+   <div align="justify">Hello, my name is Felipe. I am currently a computer science student at the Federal Technological University of Paraná. I specialize in front-end development using Angular, and am also an enthusiast in web development using the MERN stack (MongoDB, Express, React, Node.js). Additionally, I am constantly expanding my knowledge and skills in the field of AI and machine learning. </div>
 </div>
 <br>
 
