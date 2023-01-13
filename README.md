@@ -18,8 +18,6 @@
 ![Angular](https://img.shields.io/badge/angular-%2320232a.svg?style=for-the-badge&logo=angular&logoColor=%23DD0031)&nbsp;
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
 ![Vue.js](https://img.shields.io/badge/vuejs-%2320232a.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)&nbsp;
-![Nuxtjs](https://img.shields.io/badge/Nuxt-%2320232a?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)&nbsp;
-![Next JS](https://img.shields.io/badge/Next-%2320232a?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-%2320232a.svg?style=for-the-badge&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-%2320232a.svg?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2320232a.svg?style=for-the-badge&logo=tailwind-css&logoColor=%2338B2AC)&nbsp;
@@ -33,30 +31,23 @@
 ![NodeJS](https://img.shields.io/badge/node.js-%2320232a?style=for-the-badge&logo=node.js&logoColor=6DA55F)&nbsp;
 ![Express.js](https://img.shields.io/badge/express.js-%2320232a.svg?style=for-the-badge&logo=express&logoColor=%23404d59)&nbsp;
 ![Postgres](https://img.shields.io/badge/postgres-%2320232a.svg?style=for-the-badge&logo=postgresql&logoColor=%23316192)&nbsp;
-![Prisma](https://img.shields.io/badge/Prisma-%2320232a?style=for-the-badge&logo=Prisma&logoColor=3982CE)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-%2320232a.svg?style=for-the-badge&logo=mysql)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-%2320232a.svg?style=for-the-badge&logo=mongodb&logoColor=%234ea94b)&nbsp;
+![Firebase](https://img.shields.io/badge/firebase-%2320232a.svg?style=for-the-badge&logo=firebase)&nbsp;
 ![Insomnia](https://img.shields.io/badge/Insomnia-%2320232a?style=for-the-badge&logo=insomnia&logoColor=5849BE)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-%2320232a?style=for-the-badge&logo=postman&logoColor=FF6C37)&nbsp;
 ![Docker](https://img.shields.io/badge/docker-%2320232a.svg?style=for-the-badge&logo=docker&logoColor=%230db7ed)&nbsp;
-![Firebase](https://img.shields.io/badge/firebase-%2320232a.svg?style=for-the-badge&logo=firebase)&nbsp;
 <br><br>
 
 ## 🤖 AI Technologies
 ![Python](https://img.shields.io/badge/-Python-%2320232a.svg?style=for-the-badge&logo=python)&nbsp;
-![Selenium](https://img.shields.io/badge/-selenium-%2320232a?style=for-the-badge&logo=selenium&logoColor=%43B02A)&nbsp;
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%2320232a.svg?style=for-the-badge&logo=jupyter&logoColor=orange)&nbsp;
-![NumPy](https://img.shields.io/badge/numpy-%2320232a.svg?style=for-the-badge&logo=numpy&logoColor=%23013243)&nbsp;
-![Pandas](https://img.shields.io/badge/pandas-%2320232a.svg?style=for-the-badge&logo=pandas&logoColor=%23150458)&nbsp;
-![Plotly](https://img.shields.io/badge/Plotly-%2320232a.svg?style=for-the-badge&logo=plotly&logoColor=%233F4F75)&nbsp;
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%2320232a.svg?style=for-the-badge&logo=scikit-learn&logoColor=%23F7931E)&nbsp;
 <br><br>
 
-## 🧰 Another Technologies
+## 🧰 OS Technologies
 ![C](https://img.shields.io/badge/-C-%2320232a.svg?style=for-the-badge&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-%2320232a.svg?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-%2320232a.svg?style=for-the-badge&logo=mysql)&nbsp;
 ![Arduino](https://img.shields.io/badge/-Arduino-%2320232a?style=for-the-badge&logo=Arduino&logoColor=00979D)&nbsp;
-![Git](https://img.shields.io/badge/-Git-%2320232a.svg?style=for-the-badge&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-%2320232a.svg?style=for-the-badge&logo=github)&nbsp;
 <br><br>
 
 ## 🗣️ Languages
