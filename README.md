@@ -3,6 +3,8 @@
 <h2 align="center">:wave: Hi, I'm Felipe!</h2>
 <div align="center">
    <img align="center" alt="felipe_gif" height="128" width="128" src="https://github.com/felipolis/felipolis/blob/main/meuavatar.gif">
+   <br>
+   <br>
    <div align="center">Hello, my name is Felipe. I am currently a computer science student at the Federal Technological University of Paraná. I specialize in front-end development using Angular, and am also an enthusiast in web development using the MERN stack (MongoDB, Express, React, Node.js). Additionally, I am constantly expanding my knowledge and skills in the field of AI and machine learning. </div>
 </div>
 <br>
