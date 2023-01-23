@@ -5,7 +5,7 @@
    <img align="center" alt="felipe_gif" height="128" width="128" src="https://github.com/felipolis/felipolis/blob/main/meuavatar.gif">
    <br>
    <br>
-   <div align="center">Hello, my name is Felipe. I am currently a computer science student at the Federal Technological University of Paraná. I specialize in front-end development using Angular, and am also an enthusiast in web development using the MERN stack (MongoDB, Express, React, Node.js). Additionally, I am constantly expanding my knowledge and skills in the field of AI and machine learning. </div>
+   <div align="center">Hello, my name is Felipe, I am a Computer Science student at the Federal Technological University of Paraná and I work as a front-end developer. Currently, I am working with Angular, but I also like to explore other technologies such as ReactJs and VueJs. I always strive to improve my skills to become a increasingly proficient developer and contribute to amazing projects. I am excited to see where my passion for development will take me in the future. </div>
 </div>
 <br>
 
