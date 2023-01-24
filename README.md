@@ -42,6 +42,7 @@
    ![MySQL](https://img.shields.io/badge/-MySQL-%2320232a.svg?style=for-the-badge&logo=mysql)&nbsp;
    ![MongoDB](https://img.shields.io/badge/MongoDB-%2320232a.svg?style=for-the-badge&logo=mongodb&logoColor=%234ea94b)&nbsp;
    ![Firebase](https://img.shields.io/badge/firebase-%2320232a.svg?style=for-the-badge&logo=firebase)&nbsp;
+   ![Supabase](https://img.shields.io/badge/Supabase-%2320232a?style=for-the-badge&logo=supabase&logoColor=3ECF8E)&nbsp;
    ![Insomnia](https://img.shields.io/badge/Insomnia-%2320232a?style=for-the-badge&logo=insomnia&logoColor=5849BE)&nbsp;
    ![Postman](https://img.shields.io/badge/Postman-%2320232a?style=for-the-badge&logo=postman&logoColor=FF6C37)&nbsp;
    ![Docker](https://img.shields.io/badge/docker-%2320232a.svg?style=for-the-badge&logo=docker&logoColor=%230db7ed)&nbsp;
