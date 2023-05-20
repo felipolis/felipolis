@@ -57,11 +57,14 @@
    <br><br>
 </div>
 
-<h2 align="center">🧰 OS Technologies</h2>
+<h2 align="center">🧰 Other Technologies</h2>
 <div align="center">
 
    ![C](https://img.shields.io/badge/-C-%2320232a.svg?style=for-the-badge&logo=C&logoColor=A8B9CC)&nbsp;
    ![C++](https://img.shields.io/badge/-C++-%2320232a.svg?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)&nbsp;
+   ![Dart](https://img.shields.io/badge/dart-%2320232a.svg?style=for-the-badge&logo=dart&logoColor=%230175C2)&nbsp;
+   ![Ruby](https://img.shields.io/badge/ruby-%2320232a.svg?style=for-the-badge&logo=ruby&logoColor=%23CC342D)&nbsp;
+   ![Elixir](https://img.shields.io/badge/elixir-%2320232a.svg?style=for-the-badge&logo=elixir&logoColor=%234B275F)&nbsp;
    ![Arduino](https://img.shields.io/badge/-Arduino-%2320232a?style=for-the-badge&logo=Arduino&logoColor=00979D)&nbsp;
    <br><br>
 </div>
