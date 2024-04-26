@@ -11,8 +11,8 @@
 
 <h2 align="center">⚙️ GitHub Analytics</h2>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipolis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipolis&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="230em" src="https://github-readme-stats.vercel.app/api?username=felipolis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipolis&layout=compact&langs_count=16&theme=dracula"/>
 </div><br>
 
 <h2 align="center">🎨 Front End Technologies</h2>
@@ -36,13 +36,14 @@
 <h2 align="center">🔧 Back End Technologies</h2>
 <div align="center">
 
+   ![Java](https://img.shields.io/badge/java-%2320232a?style=for-the-badge&logo=openjdk&logoColor=%23ED8B00)&nbsp;
+   ![Spring](https://img.shields.io/badge/spring-%2320232a?style=for-the-badge&logo=spring&logoColor=%236DB33F)&nbsp;
    ![NodeJS](https://img.shields.io/badge/node.js-%2320232a?style=for-the-badge&logo=node.js&logoColor=6DA55F)&nbsp;
    ![Express.js](https://img.shields.io/badge/express.js-%2320232a.svg?style=for-the-badge&logo=express&logoColor=%23404d59)&nbsp;
+   ![NestJS](https://img.shields.io/badge/nestjs-%2320232a?style=for-the-badge&logo=nestjs&logoColor=%23E0234E)&nbsp;
    ![Postgres](https://img.shields.io/badge/postgres-%2320232a.svg?style=for-the-badge&logo=postgresql&logoColor=%23316192)&nbsp;
    ![MySQL](https://img.shields.io/badge/-MySQL-%2320232a.svg?style=for-the-badge&logo=mysql)&nbsp;
    ![MongoDB](https://img.shields.io/badge/MongoDB-%2320232a.svg?style=for-the-badge&logo=mongodb&logoColor=%234ea94b)&nbsp;
-   ![Firebase](https://img.shields.io/badge/firebase-%2320232a.svg?style=for-the-badge&logo=firebase)&nbsp;
-   ![Supabase](https://img.shields.io/badge/Supabase-%2320232a?style=for-the-badge&logo=supabase&logoColor=3ECF8E)&nbsp;
    ![Insomnia](https://img.shields.io/badge/Insomnia-%2320232a?style=for-the-badge&logo=insomnia&logoColor=5849BE)&nbsp;
    ![Postman](https://img.shields.io/badge/Postman-%2320232a?style=for-the-badge&logo=postman&logoColor=FF6C37)&nbsp;
    ![Docker](https://img.shields.io/badge/docker-%2320232a.svg?style=for-the-badge&logo=docker&logoColor=%230db7ed)&nbsp;
