@@ -30,8 +30,9 @@
    ![TypeScript](https://img.shields.io/badge/typescript-%2320232a.svg?style=for-the-badge&logo=typescript&logoColor=%23007ACC)&nbsp;
    ![Bootstrap](https://img.shields.io/badge/bootstrap-%2320232a.svg?style=for-the-badge&logo=bootstrap&logoColor=%23563D7C)&nbsp;
    ![jQuery](https://img.shields.io/badge/jquery-%2320232a.svg?style=for-the-badge&logo=jquery&logoColor=%230769AD)&nbsp;
-   <br><br>
- </div>
+   `<br><br>`
+
+</div>
 
 <h2 align="center">🔧 Back End Technologies</h2>
 <div align="center">
@@ -47,7 +48,8 @@
    ![Insomnia](https://img.shields.io/badge/Insomnia-%2320232a?style=for-the-badge&logo=insomnia&logoColor=5849BE)&nbsp;
    ![Postman](https://img.shields.io/badge/Postman-%2320232a?style=for-the-badge&logo=postman&logoColor=FF6C37)&nbsp;
    ![Docker](https://img.shields.io/badge/docker-%2320232a.svg?style=for-the-badge&logo=docker&logoColor=%230db7ed)&nbsp;
-   <br><br>
+   `<br><br>`
+
 </div>
 
 <h2 align="center">🤖 AI Technologies</h2>
@@ -55,7 +57,8 @@
 
    ![Python](https://img.shields.io/badge/-Python-%2320232a.svg?style=for-the-badge&logo=python)&nbsp;
    ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%2320232a.svg?style=for-the-badge&logo=jupyter&logoColor=orange)&nbsp;
-   <br><br>
+   `<br><br>`
+
 </div>
 
 <h2 align="center">🧰 Other Technologies</h2>
@@ -67,9 +70,10 @@
    ![Ruby](https://img.shields.io/badge/ruby-%2320232a.svg?style=for-the-badge&logo=ruby&logoColor=%23CC342D)&nbsp;
    ![Elixir](https://img.shields.io/badge/elixir-%2320232a.svg?style=for-the-badge&logo=elixir&logoColor=%234B275F)&nbsp;
    ![Arduino](https://img.shields.io/badge/-Arduino-%2320232a?style=for-the-badge&logo=Arduino&logoColor=00979D)&nbsp;
-   <br><br>
+   `<br><br>`
+
 </div>
-   
+
 <h2 align="center">🗣️ Languages</h2>
 <div style="display: inline_block" align="center">
   <img align="center" alt="brasil" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/317/317132.png">
@@ -83,15 +87,6 @@
    [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:felipecunhamendes@gmail.com)](mailto:felipecunhamendes@gmail.com)
    [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipeacmendes/)
    [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipeacmendes/)
-   <br><br>
-   
+   `<br><br>`
+
 </div>
-
-<h2 align="center">🐍 Snake</h2>
-
-<div align="center">
-   
-   ![Snake animation](https://github.com/felipolis/felipolis/blob/output/github-contribution-grid-snake.svg)
-   
-</div>
-
