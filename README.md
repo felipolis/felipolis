@@ -5,7 +5,7 @@
    <img align="center" alt="felipe_gif" height="128" width="128" src="https://github.com/felipolis/felipolis/blob/main/meuavatar.gif">
    <br>
    <br>
-   <div align="center">Hello, my name is Felipe, I am a Computer Science student at the Federal Technological University of Paraná and I work as a front-end developer. Currently, I am working with Angular, but I also like to explore other technologies such as ReactJs and VueJs. I always strive to improve my skills to become a increasingly proficient developer and contribute to amazing projects. I am excited to see where my passion for development will take me in the future. </div>
+   <div align="center">👋 Olá! Eu sou o Felipe, desenvolvedor fullstack com foco em Angular e Java, atuando na área desde 2021. 🚀 Além disso, sou um entusiasta curioso por Machine Learning e Inteligência Artificial 🤖. 🎓 Graduado em Ciência da Computação pela Universidade Tecnológica Federal do Paraná (UTFPR), adoro explorar novas tecnologias e resolver problemas complexos. 🎬 Nas horas vagas, sou fã de filmes de terror, do universo mágico de Harry Potter ⚡ e das intrigas épicas de Gelo e Fogo 🐉. E claro, tenho a companhia do meu fiel gato, Frajola 🐾. </div>
 </div>
 <br>
 
