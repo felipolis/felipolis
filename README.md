@@ -30,7 +30,7 @@
    ![TypeScript](https://img.shields.io/badge/typescript-%2320232a.svg?style=for-the-badge&logo=typescript&logoColor=%23007ACC)&nbsp;
    ![Bootstrap](https://img.shields.io/badge/bootstrap-%2320232a.svg?style=for-the-badge&logo=bootstrap&logoColor=%23563D7C)&nbsp;
    ![jQuery](https://img.shields.io/badge/jquery-%2320232a.svg?style=for-the-badge&logo=jquery&logoColor=%230769AD)&nbsp;
-   `<br><br>`
+  
 
 </div>
 
@@ -48,7 +48,7 @@
    ![Insomnia](https://img.shields.io/badge/Insomnia-%2320232a?style=for-the-badge&logo=insomnia&logoColor=5849BE)&nbsp;
    ![Postman](https://img.shields.io/badge/Postman-%2320232a?style=for-the-badge&logo=postman&logoColor=FF6C37)&nbsp;
    ![Docker](https://img.shields.io/badge/docker-%2320232a.svg?style=for-the-badge&logo=docker&logoColor=%230db7ed)&nbsp;
-   `<br><br>`
+  
 
 </div>
 
@@ -57,7 +57,6 @@
 
    ![Python](https://img.shields.io/badge/-Python-%2320232a.svg?style=for-the-badge&logo=python)&nbsp;
    ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%2320232a.svg?style=for-the-badge&logo=jupyter&logoColor=orange)&nbsp;
-   `<br><br>`
 
 </div>
 
@@ -70,7 +69,6 @@
    ![Ruby](https://img.shields.io/badge/ruby-%2320232a.svg?style=for-the-badge&logo=ruby&logoColor=%23CC342D)&nbsp;
    ![Elixir](https://img.shields.io/badge/elixir-%2320232a.svg?style=for-the-badge&logo=elixir&logoColor=%234B275F)&nbsp;
    ![Arduino](https://img.shields.io/badge/-Arduino-%2320232a?style=for-the-badge&logo=Arduino&logoColor=00979D)&nbsp;
-   `<br><br>`
 
 </div>
 
