@@ -39,7 +39,7 @@
 
 <div align="center">
   <img align="center" alt="português (BR)" title="Português (Brasil)" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/317/317132.png">&nbsp;&nbsp;
-  <img align="center" alt="inglês" title="Inglês" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/317/317348.png">&nbsp;&nbsp;
+  <img align="center" alt="inglês" title="Inglês" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/317/317350.png">&nbsp;&nbsp;
   <img align="center" alt="espanhol" title="Espanhol" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/317/317316.png">
 </div>
 <br>
